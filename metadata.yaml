@@ -1,0 +1,41 @@
+_repo: Naisen-mahti_70112
+_version: 0.0.1
+alternative_title: A man's woman. Finnish
+contributor:
+  translator:
+    agent_name: Joutsen, O. A. (Otto Aleksanteri)
+    alias: Joutsen, Otto Aleksanteri
+    birthdate: 1878
+    deathdate: 1936
+    gutenberg_agent_id: '33476'
+    url: http://www.gutenberg.org/2009/agents/33476
+    wikipedia: https://fi.wikipedia.org/wiki/O._A._Joutsen
+creator:
+  author:
+    agent_name: Norris, Frank
+    alias: Norris, Benjamin Franklin
+    birthdate: 1870
+    deathdate: 1902
+    gutenberg_agent_id: '103'
+    url: http://www.gutenberg.org/2009/agents/103
+    wikipedia: https://en.wikipedia.org/wiki/Frank_Norris
+description: ''
+gutenberg_issued: '2023-02-23'
+identifiers:
+  gutenberg: '70112'
+language: fi
+pgterms:marc905: 20221125055101norris
+pgterms:marc906: '1921'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aFinland :$bK. J. Gummerus Oy, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arctic regions -- Discovery and exploration -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Naisen mahti
+url: http://www.gutenberg.org/ebooks/70112
